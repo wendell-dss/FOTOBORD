@@ -780,13 +780,14 @@ O driver `ina219.py` é baseado no trabalho de Dean Miller (Adafruit Industries)
 - Adafruit Industries pelo driver INA219
 - Comunidade MicroPython
 - Projeto de pesquisa em agricultura de precisão - UFC
+- Prof. Dra. Atslands Rego da Rocha
+- Prof. Dra Deborah Maria Vieira Magalhães
 
 ## 📞 Contato
 
 - **Projeto:** Sistema de Monitoramento Agrícola Inteligente
 - **Instituição:** Universidade Federal do Ceará
-- **Email:** [contato@exemplo.com]
-- **Link do Projeto:** [https://github.com/seu-usuario/battery-monitor-rp2040](https://github.com/seu-usuario/battery-monitor-rp2040)
+- **Email:** wendellsantos@alu.ufc.br
 
 ---
 
