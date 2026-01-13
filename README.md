@@ -1,8 +1,10 @@
-# Sistema de Monitoramento de Bateria com RP2040
+# FOTOBORD: ALIMENTAÇÃO FOTOVOLTAICA PARA DISPOSITIVOS DE COMPUTAÇÃO EM BORDA EM AMBIENTES REMOTOS
 
 [![MicroPython](https://img.shields.io/badge/MicroPython-1.20+-blue.svg)](https://micropython.org/)
 [![Hardware](https://img.shields.io/badge/Hardware-RP2040-green.svg)](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+![Descrição da imagem](Esquemas/esquematico_3.png)
 
 Sistema embarcado para monitoramento contínuo de baterias em aplicações IoT com energia solar, desenvolvido para o projeto de monitoramento agrícola com armadilhas inteligentes para pragas (Spodoptera frugiperda).
 
